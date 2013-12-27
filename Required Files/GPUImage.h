@@ -1,0 +1,7 @@
+#import "GPUImageView.h"
+#import "GPUImagePicture.h"
+#import "GPUImageFilter.h"
+#import "GPUImageSaturationFilter.h"
+#import "GPUImageGaussianBlurFilter.h"
+#import "GPUImageiOSBlurFilter.h"
+#import "GPUImageLuminanceRangeFilter.h"
